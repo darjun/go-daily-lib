@@ -8,7 +8,7 @@ import (
 )
 
 var addCmd = &cobra.Command{
-	Use: "Add",
+	Use:   "add",
 	Short: "Add subcommand add all passed args.",
 	Run: func(cmd *cobra.Command, args []string) {
 		values := ConvertArgsToFloat64Slice(args, ErrorHandling(parseHandling))

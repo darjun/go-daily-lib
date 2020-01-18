@@ -52,6 +52,7 @@ func ConvertArgsToFloat64Slice(args []string, errorHandling ErrorHandling) []flo
 		if err != nil {
 			switch errorHandling {
 			case ExitOnParseError:
+				fmt.Fprintf(os.Stderr, "invalid number: %s\n", arg)
 				os.Exit(1)
 			case PanicOnParseError:
 				panic(err)
