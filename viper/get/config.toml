@@ -1,0 +1,20 @@
+app_name = "awesome web"
+
+# possible values: DEBUG, INFO, WARNING, ERROR, FATAL
+log_level = "DEBUG"
+
+[server]
+protocols = ["http", "https", "port"]
+ports = [10000, 10001, 10002]
+timeout = "3s"
+
+[mysql]
+ip = "127.0.0.1"
+port = 3306
+user = "dj"
+password = "123456"
+database = "awesome"
+
+[redis]
+ip = "127.0.0.1"
+port = 7381
