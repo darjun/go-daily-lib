@@ -9,3 +9,4 @@
 3. [go-homedir](https://darjun.github.io/2020/01/14/godailylib/go-homedir/)
 4. [go-ini](https://darjun.github.io/2020/01/15/godailylib/go-ini/)
 5. [cobra](https://darjun.github.io/2020/01/17/godailylib/cobra/)
+6. [viper](https://darjun.github.io/2020/01/18/godailylib/viper/)
