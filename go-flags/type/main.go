@@ -11,7 +11,7 @@ type Option struct {
   IntSlice        []int           `long:"intslice" description:"int slice flag value"`
   BoolFlag        bool            `long:"bool" description:"bool flag value"`
   BoolSlice       []bool          `long:"boolslice" description:"bool slice flag value"`
-  FloatFlag       float64         `long:"float", description:"float64 flag value"`
+  FloatFlag       float64         `long:"float" description:"float64 flag value"`
   FloatSlice      []float64       `long:"floatslice" description:"float64 slice flag value"`
   StringFlag      string          `short:"s" long:"string" description:"string flag value"`
   StringSlice     []string        `long:"strslice" description:"string slice flag value"`
@@ -26,7 +26,7 @@ func main() {
     fmt.Println("in callback: ", value)
   }
   
-  err := flags.Parse(&opt, os.Args[1:])
+  _, err := flags.Parse(&opt)
   if err != nil {
     fmt.Println("Parse error:", err)
     return
