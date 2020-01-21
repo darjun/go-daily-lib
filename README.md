@@ -10,3 +10,5 @@
 4. [go-ini](https://darjun.github.io/2020/01/15/godailylib/go-ini/)
 5. [cobra](https://darjun.github.io/2020/01/17/godailylib/cobra/)
 6. [viper](https://darjun.github.io/2020/01/18/godailylib/viper/)
+7. [fsnotify](https://darjun.github.io/2020/01/19/godailylib/fsnotify/)
+8. [cast](https://darjun.github.io/2020/01/20/godailylib/cast/)
