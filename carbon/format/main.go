@@ -1,0 +1,11 @@
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+func main() {
+	t := time.Now()
+	fmt.Println(t.Format("2006-01-02 10:00:00"))
+}
