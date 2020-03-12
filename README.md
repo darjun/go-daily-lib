@@ -22,3 +22,4 @@
 16. [message-bus](https://darjun.github.io/2020/02/26/godailylib/message-bus)
 17. [watermill](https://darjun.github.io/2020/03/01/godailylib/watermill)
 18. [wire](https://darjun.github.io/2020/03/02/godailylib/wire)
+19. [mergo](https://darjun.github.io/2020/03/11/godailylib/mergo)
