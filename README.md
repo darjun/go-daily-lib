@@ -24,3 +24,4 @@
 18. [wire](https://darjun.github.io/2020/03/02/godailylib/wire)
 19. [mergo](https://darjun.github.io/2020/03/11/godailylib/mergo)
 20. [copier](https://darjun.github.io/2020/03/13/godailylib/copier)
+21. [jennifer](https://darjun.github.io/2020/03/14/godailylib/jennifer)
