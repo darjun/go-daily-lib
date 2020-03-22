@@ -26,3 +26,4 @@
 20. [copier](https://darjun.github.io/2020/03/13/godailylib/copier)
 21. [jennifer](https://darjun.github.io/2020/03/14/godailylib/jennifer)
 22. [go-cmp](https://darjun.github.io/2020/03/20/godailylib/go-cmp)
+23. [buntdb](https://darjun.github.io/2020/03/21/godailylib/buntdb)
