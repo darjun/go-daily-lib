@@ -30,3 +30,4 @@
 24. [gjson](https://darjun.github.io/2020/03/22/godailylib/gjson)
 25. [sjson](https://darjun.github.io/2020/03/24/godailylib/sjson)
 26. [jj](https://darjun.github.io/2020/03/25/godailylib/jj)
+27. [govaluate](https://darjun.github.io/2020/04/01/godailylib/govaluate)
