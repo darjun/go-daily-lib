@@ -33,3 +33,4 @@
 27. [govaluate](https://darjun.github.io/2020/04/01/godailylib/govaluate)
 28. [validator](https://darjun.github.io/2020/04/04/godailylib/validator)
 29. [gopsutil](https://darjun.github.io/2020/04/05/godailylib/gopsutil)
+30. [gentleman](https://darjun.github.io/2020/04/07/godailylib/gentleman)
