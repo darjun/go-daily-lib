@@ -37,3 +37,4 @@
 31. [plot](https://darjun.github.io/2020/04/12/godailylib/plot)
 32. [gron](https://darjun.github.io/2020/04/20/godailylib/gron)
 33. [go-app](https://darjun.github.io/2020/04/22/godailylib/go-app)
+34. [zap](https://darjun.github.io/2020/04/23/godailylib/zap)
