@@ -1,0 +1,9 @@
+version: "1"
+packages:
+  - name: "db"
+    path: "./db"
+    queries: "./query.sql"
+    schema: "./schema.sql"
+overrides:
+  - column: "authors.create_at"
+    go_type: "github.com/uniplaces/carbon.Time"

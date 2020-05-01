@@ -1,0 +1,7 @@
+version: "1"
+packages:
+  - name: "db"
+    path: "./db"
+    emit_prepared_queries: true
+    queries: "./query.sql"
+    schema: "./schema.sql"

@@ -1,0 +1,9 @@
+version: "1"
+packages:
+  - name: "db"
+    path: "./db"
+    queries: "./query.sql"
+    schema: "./schema.sql"
+overrides:
+  - go_type: "github.com/uniplaces/carbon.Time"
+    db_type: "pg_catalog.timestamp"

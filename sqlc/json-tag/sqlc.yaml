@@ -1,0 +1,7 @@
+version: "1"
+packages:
+  - name: "db"
+    path: "./db"
+    emit_json_tags: true
+    queries: "./query.sql"
+    schema: "./schema.sql"

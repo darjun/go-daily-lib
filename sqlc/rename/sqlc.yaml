@@ -1,0 +1,10 @@
+version: "1"
+packages:
+  - name: "db"
+    path: "./db"
+    queries: "./query.sql"
+    schema: "./schema.sql"
+rename:
+    id: "Id"
+    name: "UserName"
+    create_at: "CreateTime"
