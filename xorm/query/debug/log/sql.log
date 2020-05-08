@@ -1,0 +1,1 @@
+[xorm] [info]  2020/05/08 21:45:44.563220 [SQL] SELECT `id`, `name`, `salt`, `age`, `passwd` FROM `user` WHERE `id`=? LIMIT 1 [1] - 4.0036ms

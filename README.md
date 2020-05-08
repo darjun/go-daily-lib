@@ -40,3 +40,5 @@
 34. [zap](https://darjun.github.io/2020/04/23/godailylib/zap)
 35. [zerolog](https://darjun.github.io/2020/04/24/godailylib/zerolog)
 36. [nutsdb](https://darjun.github.io/2020/04/25/godailylib/nutsdb)
+37. [sqlc](https://darjun.github.io/2020/04/28/godailylib/sqlc)
+38. [xorm](https://darjun.github.io/2020/05/07/godailylib/xorm)
