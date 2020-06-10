@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option go_package = "proto";
+
+service Echo {
+    rpc Say(Request) returns (Response);
+}
+
+message Request {
+    string text = 1;
+}
+
+message Response {
+    string text = 2;
+}
