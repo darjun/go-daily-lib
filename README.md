@@ -45,3 +45,5 @@
 39. [rpc](https://darjun.github.io/2020/05/08/godailylib/rpc)
 40. [jsonrpc](https://darjun.github.io/2020/05/10/godailylib/jsonrpc)
 41. [rpcx](https://darjun.github.io/2020/05/21/godailylib/rpcx)
+42. [rpcx](https://darjun.github.io/2020/05/21/godailylib/rpcx)
+43. [rpcx](https://darjun.github.io/2020/06/07/godailylib/twirp)
