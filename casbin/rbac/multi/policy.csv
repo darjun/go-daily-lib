@@ -1,0 +1,9 @@
+p, admin, prod, read
+p, admin, prod, write
+p, developer, dev, read
+p, developer, dev, write
+p, developer, prod, read
+g, dajun, admin
+g, lizi, developer
+g2, prod.data, prod
+g2, dev.data, dev

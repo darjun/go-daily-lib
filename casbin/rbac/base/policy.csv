@@ -1,0 +1,5 @@
+p, admin, data, read
+p, admin, data, write
+p, developer, data, read
+g, dajun, admin
+g, lizi, developer
