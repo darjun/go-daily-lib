@@ -48,3 +48,4 @@
 42. [twirp](https://darjun.github.io/2020/06/07/godailylib/twirp)
 43. [casbin](https://darjun.github.io/2020/06/12/godailylib/casbin)
 44. [fyne](https://darjun.github.io/2020/06/15/godailylib/fyne)
+45. [negroni](https://darjun.github.io/2020/06/19/godailylib/negroni)
