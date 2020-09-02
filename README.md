@@ -52,3 +52,4 @@
 46. [cli](https://darjun.github.io/2020/06/22/godailylib/cli)
 47. [cron](https://darjun.github.io/2020/06/25/godailylib/cron)
 48. [mapstructure](https://darjun.github.io/2020/07/29/godailylib/mapstructure)
+49. [jobrunner](https://darjun.github.io/2020/09/01/godailylib/jobrunner)
