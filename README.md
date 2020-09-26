@@ -55,3 +55,4 @@
 49. [jobrunner](https://darjun.github.io/2020/09/01/godailylib/jobrunner)
 50. [gabs](https://darjun.github.io/2020/09/03/godailylib/gabs)
 51. [commonregex](https://darjun.github.io/2020/09/05/godailylib/commonregex)
+52. [quicktemplate](https://darjun.github.io/2020/09/26/godailylib/quicktemplate)

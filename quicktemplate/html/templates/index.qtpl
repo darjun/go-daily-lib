@@ -1,0 +1,11 @@
+{% func Index(name string) %}
+<html>
+  <head>
+    <title>Awesome Web</title>
+  </head>
+  <body>
+    <h1>Hi, {%s name %}
+    <p>Welcome to the awesome web!!!</p>
+  </body>
+</html>
+{% endfunc %}

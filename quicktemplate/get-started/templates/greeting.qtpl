@@ -1,0 +1,7 @@
+All text outside function is treated as comments.
+
+{% func Greeting(name string, count int) %}
+  {% for i := 0; i < count; i++ %}
+    Hello, {%s name %}
+  {% endfor %}
+{% endfunc %}

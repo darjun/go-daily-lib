@@ -1,0 +1,6 @@
+{% import "fmt" %}
+{% func ScoreList(name2score map[string]int) %}
+  {% for name, score := range name2score %}
+    {%s fmt.Sprintf("%s: score-%d rank-%s", name, score, Rank(score)) %}
+  {% endfor %}
+{% endfunc %}

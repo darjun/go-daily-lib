@@ -1,0 +1,3 @@
+{% func Types(a int, b float64, c []byte, d string) %}
+  int: {%d a %}, float64: {%f.2 b %}, bytes: {%z c %}, string with quotes: {%q d %}, string without quotes: {%j d %}.
+{% endfunc %}
