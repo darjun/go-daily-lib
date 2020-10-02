@@ -7,7 +7,7 @@ import (
 )
 
 func index(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintln(w, "Hello dj2!")
+	fmt.Fprintln(w, "Hello, world!")
 }
 
 func main() {
@@ -16,7 +16,7 @@ func main() {
 
 	server := &http.Server{
 		Handler: mux,
-		Addr:    ":8088",
+		Addr:    ":8080",
 	}
 
 	log.Fatal(server.ListenAndServe())

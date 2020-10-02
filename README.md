@@ -108,3 +108,5 @@
   收集常用的正则表达式。
 * [quicktemplate](https://darjun.github.io/2020/09/26/godailylib/quicktemplate)
   Go 模板库，预先编译为 Go 代码。
+* [air](https://darjun.github.io/2020/09/27/godailylib/air/)
+  监听文件修改，自动编译，重启 Go 程序。提升开发效率。
