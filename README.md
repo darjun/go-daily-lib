@@ -112,3 +112,5 @@
   监听文件修改，自动编译，重启 Go 程序。提升开发效率。
 * [goquery](https://darjun.github.io/2020/10/11/godailylib/goquery)
   Go 的**jQuery**。
+* [rxgo](https://darjun.github.io/2020/10/11/godailylib/rxgo)
+  基于[pipelines](https://blog.golang.org/pipelines)的异步编程库。
