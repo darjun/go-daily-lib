@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<script type="text/javascript" src="gotalk/gotalk.js"></script>
+	</head>
+	<body>
+		<input id="txt">
+		<button id="snd">send</button><br>
+		<script>
+		let c = gotalk.connection()
+			.on('open', () => log(`connection opened`))
+			.on('close', reason => log(`connection closed (reason: ${reason})`))
+		let btn = document.querySelector("#snd")
+		let txt = document.querySelector("#txt")
+		btn.onclick = async () => {
+			let content = txt.value
+			if (content.length === 0) {
+				alert("no message")
+				return
+			}
+			let res = await c.requestp('echo', content)
+			log(`reply: ${JSON.stringify(res, null, 2)}`)
+			return false
+		}
+		function log(message) {
+			document.body.appendChild(document.createTextNode(message))
+			document.body.appendChild(document.createElement("br"))
+		}
+		</script>
+	</body>
+</html>

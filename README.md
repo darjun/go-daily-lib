@@ -116,3 +116,5 @@
   基于[pipelines](https://blog.golang.org/pipelines)的异步编程库。
 * [bytebufferpool](https://darjun.github.io/2021/05/08/godailylib/bytebufferpool)
   基于`sync.Pool`实现的高性能对象缓冲池。
+* [gotalk](https://darjun.github.io/2021/05/18/youdontknowgo/string)
+  专注于进程间通信的库。
