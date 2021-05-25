@@ -118,3 +118,5 @@
   基于`sync.Pool`实现的高性能对象缓冲池。
 * [gotalk](https://darjun.github.io/2021/05/18/youdontknowgo/string)
   专注于进程间通信的库。
+* [fasttemplate](https://darjun.github.io/2021/05/24/godailylib/fasttemplate)
+  一款小型的模板库，可用于替换`strings.Replace`和`fmt.Sprintf`。
