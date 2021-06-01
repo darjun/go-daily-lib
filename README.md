@@ -120,3 +120,5 @@
   专注于进程间通信的库。
 * [fasttemplate](https://darjun.github.io/2021/05/24/godailylib/fasttemplate)
   一款小型的模板库，可用于替换`strings.Replace`和`fmt.Sprintf`。
+* [reflect](https://darjun.github.io/2021/05/27/godailylib/reflect)
+  反射标准库`reflect`详解。
