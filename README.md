@@ -126,3 +126,5 @@
   goroutine 池。
 * [tunny](https://darjun.github.io/2021/06/10/godailylib/tunny)
   另一个 goroutine 池实现。
+* [bubbletea](https://darjun.github.io/2021/06/11/godailylib/bubbletea)
+  TUI 程序框架。
