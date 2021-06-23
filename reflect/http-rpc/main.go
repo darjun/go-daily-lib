@@ -131,7 +131,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	m := lookupMethod(parts[0], parts[1])
-	if m.method.IsZero() {
+	if !m.method.IsValid() {
 		handleError(w, fmt.Errorf("no such method:%s in object:%s", parts[0], parts[1]))
 		return
 	}
