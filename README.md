@@ -128,3 +128,5 @@
   另一个 goroutine 池实现。
 * [bubbletea](https://darjun.github.io/2021/06/11/godailylib/bubbletea)
   TUI 程序框架。
+* [dateparse](https://darjun.github.io/2021/06/24/godailylib/dateparse)
+  日期时间字符串解析库。
