@@ -128,3 +128,5 @@
   另一个 goroutine 池实现。
 * [bubbletea](https://darjun.github.io/2021/06/11/godailylib/bubbletea)
   TUI 程序框架。
+* [resty](https://darjun.github.io/2021/06/26/godailylib/resty)
+  HTTP client。
