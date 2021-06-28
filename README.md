@@ -130,3 +130,5 @@
   TUI 程序框架。
 * [dateparse](https://darjun.github.io/2021/06/24/godailylib/dateparse)
   日期时间字符串解析库。
+* [resty](https://darjun.github.io/2021/06/26/godailylib/resty)
+  HTTP client。
