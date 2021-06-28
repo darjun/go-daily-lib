@@ -128,6 +128,8 @@
   另一个 goroutine 池实现。
 * [bubbletea](https://darjun.github.io/2021/06/11/godailylib/bubbletea)
   TUI 程序框架。
+* [ozzo-validation](https://darjun.github.io/2021/06/20/godailylib/ozzo-validation)
+  数据校验库。
 * [dateparse](https://darjun.github.io/2021/06/24/godailylib/dateparse)
   日期时间字符串解析库。
 * [resty](https://darjun.github.io/2021/06/26/godailylib/resty)
