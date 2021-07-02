@@ -136,3 +136,5 @@
   HTTP client。
 * [termtables](https://darjun.github.io/2021/06/29/godailylib/termtables/)
   控制台输出表格。
+* [colly](https://darjun.github.io/2021/06/30/godailylib/colly/)
+  Go 语言的爬虫框架。
