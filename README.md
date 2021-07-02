@@ -134,3 +134,5 @@
   日期时间字符串解析库。
 * [resty](https://darjun.github.io/2021/06/26/godailylib/resty)
   HTTP client。
+* [termtables](https://darjun.github.io/2021/06/29/godailylib/termtables/)
+  控制台输出表格。
