@@ -1,0 +1,32 @@
+[
+  {
+    "isbn": "978-7-111-55842-2",
+    "name": "Go 程序设计语言",
+    "authors": [
+      "Alan A. A. Donovan",
+      "Brian W. Kernighan"
+    ],
+    "press": "机械工业出版社",
+    "published_at": "2017.1"
+  },
+  {
+    "isbn": "978-7-115-44535-3",
+    "name": "Go 语言实战",
+    "authors": [
+      "William Kennedy",
+      "Brian Ketelsen",
+      "Erik St. Martin"
+    ],
+    "press": "人民有点出版社",
+    "published_at": "2017.3"
+  },
+  {
+    "isbn": "978-7-115-32247-0",
+    "name": "Go Web 编程",
+    "authors": [
+      "Sau Sheong Chang"
+    ],
+    "press": "人民邮电出版社",
+    "published_at": "2017.12"
+  }
+]
