@@ -140,5 +140,5 @@
   Go 语言的爬虫框架。
 * net/http：
   [基础和中间件](https://darjun.github.io/2021/07/13/in-post/godailylib/nethttp/)
-* [gorilla/mux](https://darjun/github.io/2021/07/19/godailylib/gorilla/mux)
+* [gorilla/mux](https://darjun.github.io/2021/07/19/godailylib/gorilla/mux)
   gorilla Web 开发包之路由库
