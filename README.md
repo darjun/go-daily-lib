@@ -148,3 +148,5 @@
     gorilla Web 开发包之表单处理库
 * [gorilla/securecookie](https://darjun/github.io/2021/07/22/godailylib/gorilla/schema)
     gorilla Web 开发包之安全 cookie 库
+* [gorilla/sessions](https://darjun/github.io/2021/07/25/godailylib/gorilla/sessions)
+    gorilla Web 开发包之 session 处理库
