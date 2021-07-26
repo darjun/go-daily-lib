@@ -150,3 +150,5 @@
     gorilla Web 开发包之安全 cookie 库
 * [gorilla/sessions](https://darjun/github.io/2021/07/25/godailylib/gorilla/sessions)
     gorilla Web 开发包之 session 处理库
+* [goth](https://darjun/github.io/2021/07/26/godailylib/goth)
+    第三方认证合集
