@@ -142,13 +142,13 @@
   [基础和中间件](https://darjun.github.io/2021/07/13/in-post/godailylib/nethttp/)
 * [gorilla/mux](https://darjun.github.io/2021/07/19/godailylib/gorilla/mux)
   gorilla Web 开发包之路由库
-* [gorilla/handlers](https://darjun/github.io/2021/07/21/godailylib/gorilla/handlers)
+* [gorilla/handlers](https://darjun.github.io/2021/07/21/godailylib/gorilla/handlers)
     gorilla Web 开发包之中间件库
-* [gorilla/schema](https://darjun/github.io/2021/07/22/godailylib/gorilla/schema)
+* [gorilla/schema](https://darjun.github.io/2021/07/22/godailylib/gorilla/schema)
     gorilla Web 开发包之表单处理库
-* [gorilla/securecookie](https://darjun/github.io/2021/07/22/godailylib/gorilla/schema)
+* [gorilla/securecookie](https://darjun.github.io/2021/07/22/godailylib/gorilla/schema)
     gorilla Web 开发包之安全 cookie 库
-* [gorilla/sessions](https://darjun/github.io/2021/07/25/godailylib/gorilla/sessions)
+* [gorilla/sessions](https://darjun.github.io/2021/07/25/godailylib/gorilla/sessions)
     gorilla Web 开发包之 session 处理库
-* [goth](https://darjun/github.io/2021/07/26/godailylib/goth)
+* [goth](https://darjun.github.io/2021/07/26/godailylib/goth)
     第三方认证合集
