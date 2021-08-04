@@ -152,3 +152,5 @@
     gorilla Web 开发包之 session 处理库
 * [goth](https://darjun/github.io/2021/07/26/godailylib/goth)
     第三方认证合集
+* [testing](https://darjun/github.io/2021/08/03/godailylib/testing)
+    标准库测试包
