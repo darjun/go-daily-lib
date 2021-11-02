@@ -138,8 +138,8 @@
   控制台输出表格。
 * [colly](https://darjun.github.io/2021/06/30/godailylib/colly/)
   Go 语言的爬虫框架。
-* net/http：
-  [基础和中间件](https://darjun.github.io/2021/07/13/in-post/godailylib/nethttp/)
+* [net/http](https://darjun.github.io/2021/07/13/in-post/godailylib/nethttp/)：
+  基础和中间件
 * [gorilla/mux](https://darjun.github.io/2021/07/19/godailylib/gorilla/mux)
   gorilla Web 开发包之路由库
 * [gorilla/handlers](https://darjun.github.io/2021/07/21/godailylib/gorilla/handlers)
