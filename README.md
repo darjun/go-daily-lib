@@ -150,9 +150,9 @@
     gorilla Web 开发包之安全 cookie 库
 * [gorilla/sessions](https://darjun.github.io/2021/07/25/godailylib/gorilla/sessions)
     gorilla Web 开发包之 session 处理库
-* [goth](https://darjun/github.io/2021/07/26/godailylib/goth)
+* [goth](https://darjun.github.io/2021/07/26/godailylib/goth)
     第三方认证合集
-* [testing](https://darjun/github.io/2021/08/03/godailylib/testing)
+* [testing](https://darjun.github.io/2021/08/03/godailylib/testing)
     标准库测试包
-* [testify](https://darjun/github.io/2021/08/11/godailylib/testify)
+* [testify](https://darjun.github.io/2021/08/11/godailylib/testify)
     Go 最流行的测试库
