@@ -72,13 +72,13 @@ var dateCmd = &cobra.Command{
 	Use:   "date",
 	Short: "Date show the month calendar of the year.",
 	Run: func(cmd *cobra.Command, args []string) {
-		if year < 1000 && year > 9999 {
-			fmt.Fprintln(os.Stderr, "invalid year should in [1000, 9999], actual:%d", year)
+		if year < 1000 || year > 9999 {
+			fmt.Fprintf(os.Stderr, "invalid year should in [1000, 9999], actual:%d", year)
 			os.Exit(1)
 		}
 
-		if month < 1 && year > 12 {
-			fmt.Fprintln(os.Stderr, "invalid month should in [1, 12], actual:%d", month)
+		if month < 1 || year > 12 {
+			fmt.Fprintf(os.Stderr, "invalid month should in [1, 12], actual:%d", month)
 			os.Exit(1)
 		}
 
