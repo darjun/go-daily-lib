@@ -158,3 +158,5 @@
     Go 最流行的测试库
 * [bitset](https://darjun.github.io/2022/07/16/godailylib/bitset/)
     位集合操作库
+* [roaring](https://darjun.github.io/2022/07/17/godailylib/roaring/)
+    压缩位图
