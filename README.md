@@ -160,3 +160,5 @@
     位集合操作库
 * [roaring](https://darjun.github.io/2022/07/17/godailylib/roaring/)
     压缩位图
+* [os/exec](https://darjun.github.io/2022/11/01/godailylib/osexec/)
+    执行外部命令
