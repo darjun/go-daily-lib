@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/bamzi/jobrunner v1.0.0
-	github.com/gin-gonic/gin v1.7.0
+	github.com/gin-gonic/gin v1.7.7
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/jordan-wright/email v0.0.0-20200824153738-3f5bafa1cd84
 	github.com/json-iterator/go v1.1.10 // indirect
