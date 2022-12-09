@@ -162,3 +162,7 @@
     压缩位图
 * [os/exec](https://darjun.github.io/2022/11/01/godailylib/osexec/)
     执行外部命令
+* ebiten
+  * [一起用Go做一个游戏（上）](https://darjun.github.io/2022/11/15/godailylib/ebiten1/)
+  * [一起用Go做一个游戏（中）](https://darjun.github.io/2022/11/18/godailylib/ebiten2/)
+  * [一起用Go做一个游戏（下）](https://darjun.github.io/2022/11/23/godailylib/ebiten2/)
